@@ -1,6 +1,6 @@
 {
-	"author": "Taufiqurrahman Hafiidh Datau",
 	"name": "fcc-learn-npm-package-json",
+	"author": "Taufiqurrahman Hafiidh Datau",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
